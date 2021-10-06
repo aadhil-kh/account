@@ -1,0 +1,22 @@
+{ 
+  "users": [
+    {
+      "id": "QW13AV2019",
+      "name": "John",
+      "industry": "Consulting",
+      "phone": 987654321
+    },
+    {
+      "id": "QW13AV2012",
+      "name": "Peter",
+      "industry": "Education",
+      "phone": 987654322
+    },
+    {
+      "id": "QW13AV2013",
+      "name": "Steve",
+      "industry": "Technology",
+      "phone": 987654321
+    }
+  ]
+}
